@@ -1,2 +1,2 @@
 # Python-Flask-Blog
-This is the first blog i created python framework.
+This is the first blog i created using python framework.
